@@ -23,3 +23,5 @@ https://securelist.com/how-to-recover-files-encrypted-by-yanluowang/106332/
 https://archive.ph/GNkfg
 
 https://blog.talosintelligence.com/recent-cyber-attack/
+
+https://darktrace.com/blog/inside-the-yanluowang-leak-organization-members-and-tactics
