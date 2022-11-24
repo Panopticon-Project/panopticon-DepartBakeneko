@@ -25,3 +25,5 @@ https://archive.ph/GNkfg
 https://blog.talosintelligence.com/recent-cyber-attack/
 
 https://darktrace.com/blog/inside-the-yanluowang-leak-organization-members-and-tactics
+
+https://www.trellix.com/en-us/about/newsroom/stories/research/yanluowang-ransomware-leaks-analysis.html
